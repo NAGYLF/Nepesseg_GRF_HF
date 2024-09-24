@@ -1,0 +1,16 @@
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\bin\Debug\Nepesseg_GRF_HF.exe.config
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\bin\Debug\Nepesseg_GRF_HF.exe
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\bin\Debug\Nepesseg_GRF_HF.pdb
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.csproj.AssemblyReference.cache
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\MainWindow.g.cs
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\App.g.cs
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF_Content.g.cs
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF_MarkupCompile.cache
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF_MarkupCompile.lref
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\MainWindow.baml
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.g.resources
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.Properties.Resources.resources
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.csproj.GenerateResource.cache
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.csproj.CoreCompileInputs.cache
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.exe
+C:\Users\LEVIS\source\repos\Nepesseg_GRF_HF\obj\Debug\Nepesseg_GRF_HF.pdb
