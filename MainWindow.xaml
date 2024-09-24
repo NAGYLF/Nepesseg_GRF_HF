@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Nepesseg_GRF_HF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Height="435" Width="800">
         <Label Content="Népesség" HorizontalAlignment="Left" Margin="200,180,0,0" VerticalAlignment="Top"/>
         <Label Content="Terület" HorizontalAlignment="Left" Margin="200,140,0,0" VerticalAlignment="Top"/>
         <Label Content="Ország" HorizontalAlignment="Left" Margin="200,100,0,0" VerticalAlignment="Top"/>
@@ -19,7 +19,7 @@
         <TextBox Margin="333,180,270,228"/>
         <TextBox Margin="333,140,270,268"/>
         <Button Content="mentés" HorizontalAlignment="Left" Margin="645,98,0,0" VerticalAlignment="Top" Height="55" Width="100"/>
-        <Button Content="kilépés" HorizontalAlignment="Left" Margin="750,404,0,0" VerticalAlignment="Top"/>
+        <Button Content="kilépés" HorizontalAlignment="Left" Margin="675,319,0,0" VerticalAlignment="Top" Click="Button_Click"/>
 
     </Grid>
 </Window>
